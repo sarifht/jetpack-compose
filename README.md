@@ -1,1 +1,1 @@
-# Submission Jetpack Compose by Sarif Hidayatullah
+Submission Jetpack Compose by Sarif Hidayatullah
